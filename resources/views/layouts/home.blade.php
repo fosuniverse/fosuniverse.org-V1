@@ -203,7 +203,7 @@
                 <div class="copyright-footer">
                     <p class="copyright color-text-a">
                         &copy; 
-                        <span class="color-b">FOSUniverse</span> @php echo date('Y'); @endphp
+                        <span class="color-b">FOSUNIVERSE</span> @php echo date('Y'); @endphp
                     </p>
                 </div>
 
