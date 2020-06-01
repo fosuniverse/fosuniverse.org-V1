@@ -5,4 +5,16 @@ FOSUNIVERSE develops Open Source software and hardware solutions with a global d
 Our mission - The mission of FOSUNIVERSE is to improve people's lives by sharing open technologies, knowledge and resources to 
 help build a sustainable Free Open Source Software ecosystem.
 
+## Why F.O.S.U?
+
+Get started and know more about us here [www.fosuniverse.org](https://fosuniverse.org)
+
+## Code of Conduct:
+
+## How to Contribute:
+
+# Contributor's Guide
+
+### How to Get Started
+
 Official website: https://fosuniverse.org
