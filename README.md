@@ -20,5 +20,6 @@ Get started and know more about us here [www.fosuniverse.org](https://fosunivers
 
 ## License
 
-This project is licensed under the Creative Commons Zero v1.0 Universal - see the [LICENSE](LICENSE) file for more details. 
+This project is licensed under the Creative Commons Zero v1.0 Universal - see the [LICENSE](LICENSE) file for more details.
+
 Official website: https://fosuniverse.org
