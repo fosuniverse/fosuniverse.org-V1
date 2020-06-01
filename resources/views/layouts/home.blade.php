@@ -30,22 +30,23 @@
 
 <!--/ Nav Start /-->
 <nav class="navbar navbar-default navbar-trans navbar-expand-lg fixed-top">
-    <div class="container-fluid">
+    <div class="container">
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
                 aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
             <span></span>
             <span></span>
             <span></span>
+          
         </button>
-        <a class="navbar-brand text-brand" href="{{ route('home') }}">FOS<span class="color-b">Universe</span></a>
-
+        <a class="navbar-brand" href="{{ route('home') }}"><img src="{{ asset('img/logo.png') }}" height="80" width="100" ></a> 
+       
         <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
             <ul class="navbar-nav">
                 <li class="nav-item">
                     <a class="nav-link @if(session('active') == 'home') active @endif" href="{{ route('home') }}">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link @if(session('active') == 'about') active @endif" href="{{ route('about') }}">About Community</a>
+                    <a class="nav-link @if(session('active') == 'about') active @endif" href="{{ route('about') }}">About Us</a>
                 </li>
 
                 <li class="nav-item dropdown">
@@ -163,9 +164,7 @@
                             <li class="item-list-a">
                                 <i class="fa fa-angle-right"></i> <a href="#">Singapore</a>
                             </li>
-                            <li class="item-list-a">
-                                <i class="fa fa-angle-right"></i> <a href="#">Philippines</a>
-                            </li>
+                           
                         </ul>
                     </div>
                 </div>
@@ -203,7 +202,7 @@
                 <div class="copyright-footer">
                     <p class="copyright color-text-a">
                         &copy; 
-                        <span class="color-b">FOSUNIVERSE</span> @php echo date('Y'); @endphp
+                        <span><b>FOS</b></span><span class="color-b"><b>UNIVERSE</b></span> @php echo date('Y'); @endphp
                     </p>
                 </div>
 
@@ -229,6 +228,8 @@
 
 <!-- Main Javascript File -->
 <script src="/js/main.js"></script>
+
+@yield('scripts')
 
 </body>
 </html>
