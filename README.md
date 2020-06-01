@@ -10,7 +10,7 @@ As a community, our goal is to improve people's lives by sharing Open Tech solut
 
 Get started and know more about us here [www.fosuniverse.org](https://fosuniverse.org)
 
-## Code of Conduct:
+## Our Code of Conduct:
 
 ## How to Contribute:
 
