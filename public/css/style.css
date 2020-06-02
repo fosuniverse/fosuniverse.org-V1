@@ -74,11 +74,6 @@ a:hover {
   margin-left: 5px;
 }
 
-.text-brand {
-  color: #000000;
-  font-size: 2rem;
-  font-weight: 600;
-}
 
 .color-a {
   color: #000000;
@@ -500,7 +495,7 @@ a:hover {
 
 .navbar-default.navbar-reduce {
   transition: all .5s ease-in-out;
-  padding-top: 19px;
+  padding-top: 10px;
   padding-bottom: 19px;
 }
 
@@ -623,6 +618,8 @@ a:hover {
   transform: rotate(-135deg);
   opacity: 0.9;
 }
+
+
 
 
 /*======================================
