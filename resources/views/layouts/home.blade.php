@@ -29,7 +29,7 @@
 <body>
 
 <!--/ Nav Start /-->
-<nav class="navbar navbar-default navbar-trans navbar-expand-lg fixed-top">
+<nav class="navbar navbar-default navbar-trans navbar-expand-lg fixed-top" style="padding: 0px 0px !important;">
     <div class="container">
         <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
                 aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
@@ -108,7 +108,7 @@
                                 <span class="color-text-a"><span class="fa fa-map-marker fa-lg"></span></span><a
                                     href="https://goo.gl/maps/iWEQCM22L2YaiGK6A"> Accra, Ghana</a></li>
                             <li class="color-a">
-                                <span class="color-text-a"><span class="fa fa-envelope fa-lg"></span></span> hello@fosuniverse.org</li>
+                                <span class="color-text-a"><span class="fa fa-envelope fa-lg"></span></span> info@fosuniverse.org</li>
                         </ul>
                     </div>
                 </div>
